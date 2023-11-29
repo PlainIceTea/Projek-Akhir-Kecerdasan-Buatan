@@ -62,12 +62,12 @@ if __name__ == "__main__":
         'Bandung': 200,
         'Cirebon': 205,
         'Semarang': 160,
-        'Purwokerto': 235,
-        'Yogyakarta': 300,
-        'Madiun': 300,
-        'Surabaya': 340,
+        'Purwokerto': 550,
+        'Yogyakarta': 750,
+        'Madiun': 600,
+        'Surabaya': 550,
         'Malang': 710,
-        'Jember': 800
+        'Jember': 670
     }
 
     def heuristic(node, goal):
